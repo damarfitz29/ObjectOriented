@@ -14,7 +14,6 @@ public class Aritmatika {
     //unit test= tools --> create/update test--> ceklist semua-->ok
     public double bagi (int a, int b){
         return a/b;
-        
     }
             
 }
